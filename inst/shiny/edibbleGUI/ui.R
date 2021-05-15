@@ -1,5 +1,7 @@
-
 library(shiny)
+library(ggplot2)
+library(edibble)
+library(deggust)
 
 shinyUI(fluidPage(
 
