@@ -20,3 +20,5 @@ Imports:
     deggust,
     ggplot2
 Remotes: emitanaka/edibble, emitanaka/deggust
+URL: https://github.com/emitanaka/edibbleGUI
+BugReports: https://github.com/emitanaka/edibbleGUI/issues
