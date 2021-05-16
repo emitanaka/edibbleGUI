@@ -18,7 +18,9 @@ Imports:
     shiny,
     edibble,
     deggust,
-    ggplot2
+    ggplot2,
+    stringr,
+    rlang
 Remotes: emitanaka/edibble, emitanaka/deggust
 URL: https://github.com/emitanaka/edibbleGUI
 BugReports: https://github.com/emitanaka/edibbleGUI/issues
